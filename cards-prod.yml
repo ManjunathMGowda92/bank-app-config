@@ -2,6 +2,6 @@ app:
   details:
     name: cards-service
     author: Manjunath
-    description: Cards Application - Config Server PROD
+    description: Cards Application - GitHub Config Server PROD
     version: "2.0.0"
     environment: "PROD"
