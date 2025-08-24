@@ -9,8 +9,8 @@ app:
 loans:
   message: "Welcome to Loans service - GitHub Config Server PROD"
   contactDetails:
-    name: "John"
-    email: "john1234@gmail.com"
+    name: "John George"
+    email: "{cipher}c9d5ef086256fd047d606ea7566b997fb6f36b232eed873e5dd6ab323d62ca908aca31fb2bfc0aa0a150d83b592a3f8b"
   onCallSupport:
     - (001)555-5621
     - (001)555-5623
