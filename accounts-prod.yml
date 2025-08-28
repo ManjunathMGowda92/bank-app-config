@@ -4,4 +4,4 @@ app:
     author: Manjunath
     description: Accounts Application - GitHub Config Server PRODUCTION
     version: "1.0.0"
-    environment: "PROD"
+    environment: "PRODUCTION"
