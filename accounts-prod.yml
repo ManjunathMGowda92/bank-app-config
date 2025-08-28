@@ -1,7 +1,7 @@
 app:
   details:
     name: accounts-service
-    author: Manjunath
+    author: Manjunath HM
     description: Accounts Application - GitHub Config Server PRODUCTION
-    version: "1.0.0"
+    version: "2.0.0"
     environment: "PRODUCTION"
