@@ -2,12 +2,12 @@ app:
   details:
     name: loans-service
     author: Manjunath
-    description: Loans Application - GitHub Config Server PROD
+    description: Loans Application - GitHub Config Server PRODUCTION
     version: "2.0.0"
     environment: "PROD"
 
 loans:
-  message: "Welcome to Loans service - GitHub Config Server PROD"
+  message: "Welcome to Loans service - GitHub Config Server PRODUCTION"
   contactDetails:
     name: "John George"
     email: "{cipher}c9d5ef086256fd047d606ea7566b997fb6f36b232eed873e5dd6ab323d62ca908aca31fb2bfc0aa0a150d83b592a3f8b"
