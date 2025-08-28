@@ -4,4 +4,4 @@ app:
     author: Manjunath
     description: Cards Application - GitHub Config Server PRODUCTION
     version: "2.0.0"
-    environment: "PROD"
+    environment: "PRODUCTION"
