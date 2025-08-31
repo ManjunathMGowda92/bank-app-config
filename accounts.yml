@@ -2,6 +2,6 @@ app:
   details:
     name: accounts-service
     author: Manjunath
-    description: Accounts Application - GitHub Config Server DEFAULT Docker
+    description: Accounts Application - GitHub Config Server DEFAULT
     version: "2.0.0"
     environment: "LOCAL"
