@@ -2,6 +2,6 @@ app:
   details:
     name: accounts-service
     author: Manjunath
-    description: Accounts Application - GitHub Config Server QA
+    description: Accounts Application - GitHub Config Server QA Docker
     version: "2.0.0"
     environment: "QA"
