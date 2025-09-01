@@ -2,12 +2,12 @@ app:
   details:
     name: loans-service
     author: Manjunath
-    description: Loans Application - GitHub Config Server QA
+    description: Loans Application - GitHub Config Server QA Docker
     version: "2.0.0"
     environment: "QA"
 
 loans:
-  message: "Welcome to Loans service - GitHub Config Server QA"
+  message: "Welcome to Loans service - GitHub Config Server QA Docker"
   contactDetails:
     name: "Prakash"
     email: "paraguprakash99@gmail.com"
