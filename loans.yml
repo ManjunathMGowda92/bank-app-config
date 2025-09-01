@@ -2,12 +2,12 @@ app:
   details:
     name: loans-service
     author: Manjunath
-    description: Loans Application - Config GitHub Server DEFAULT Docker
+    description: Loans Application - Config GitHub Server DEFAULT
     version: "2.0.0"
     environment: "LOCAL"
 
 loans:
-  message: "Welcome to Loans service  - Config GitHub Server DEFAULT Docker"
+  message: "Welcome to Loans service  - Config GitHub Server DEFAULT"
   contactDetails:
     name: "Manjunath"
     email: "man1234@gmail.com"
